@@ -1,0 +1,8 @@
+name=Tutorial3
+author=nfaber
+description=Time to learn some Lua!
+bundleID=com.nfaber.tutorial3
+version=1.0
+buildNumber=1
+pdxversion=20601
+buildtime=791981090

@@ -1,0 +1,6 @@
+// {
+//     "playdate-debug.sdkPath": "/path/to/PlaydateSDK",
+//     "playdate-debug.sourcePath": "/path/to/MyGame/source",
+//     "playdate-debug.outputPath": "/path/to/MyGame",
+//     "playdate-debug.productName": "My Game"
+//   }
