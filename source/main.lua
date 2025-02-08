@@ -36,3 +36,5 @@ init only runs once, however playdate.update() runs every frame. If the game run
 it is gonna be called 30 times per second. If you do too much within playdate.update(), it is going to slow down your game though
  ]]
  init()
+
+ print("Experimental feature!!!")
