@@ -1,4 +1,4 @@
--- CONTINUE AT MIN 1 of Tutorial 3.5
+-- On github: https://github.com/Franchovy/YOUR-Playdate-Tutorial
 
 import "CoreLibs/object" -- external libraries, i.e. from Playdate SDK
 import "CoreLibs/sprites"
